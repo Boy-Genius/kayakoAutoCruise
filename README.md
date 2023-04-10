@@ -2,4 +2,4 @@ This script is used to automaticaly open calls in kayako(The helpdesk management
 it might need reconfiguring in the powershell file to fit your specific needs.
 
 instructions:
-run the cmd file.
+run the batch file.
